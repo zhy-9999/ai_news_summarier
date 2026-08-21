@@ -1,0 +1,7 @@
+{
+  "get_url": "https://mcp.applications.jiqizhixin.com/rss",
+  "token": "sk-cf",
+  "ai_url": "https://api.deepseek.com",
+  "api_key": "sk-f4",
+  "ai_model": "deepseek-v4-flash"
+}
